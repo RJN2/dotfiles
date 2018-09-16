@@ -1,0 +1,30 @@
+{
+    "editor.minimap.enabled": false,
+    "sync.gist": "d6b9148df752e41aabb6f285738be4ab",
+    "sync.lastUpload": "2017-10-14T21:09:44.324Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true,
+        "suppressShowKeyBindingsNotice": true,
+        "suppressWelcomeNotice": true
+    },
+    "gitlens.keymap": "alternate",
+    "gitlens.historyExplorer.enabled": true,
+    "team.showWelcomeMessage": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Night Owl",
+    "workbench.iconTheme": "vscode-icons",
+    "gitlens.gitExplorer.files.layout": "list",
+    "git.autofetch": true
+}
